@@ -1,4 +1,2 @@
 # LITA_PROJECT
-## LITA_PROJECT
-### LITA _PROJECT
-#### LITA_PROJECT
+### Project Title: Sales Performance Analysis for God's Glory Retail Store
