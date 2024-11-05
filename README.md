@@ -49,7 +49,11 @@ The primary source of data used is LITA Capstone Dataset and this is an open sou
 
 
 
-### Data Analysis
-This is where we include some basic lines of code or queries oe even some of the DAX expressions used during your analysis;
+### Inference
+
+   ## Sales by month:
+
+   the month of February has the most total sales while in the month of September, sales was at a very low level
+ 
 
 
