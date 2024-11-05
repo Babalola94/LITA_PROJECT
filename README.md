@@ -29,7 +29,7 @@ The primary source of data used is LITA Capstone Dataset and this is an open sou
   1. Data loading and Inspection
   2. Data Cleaning
 
-### Data Visual Analysis and Inferences
+### Data Visualization
 
 1. 
 
