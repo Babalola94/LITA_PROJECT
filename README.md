@@ -16,3 +16,14 @@ The primary source of data used is LITA Capstone Dataset and this is an open sou
    
 -  SQL- Structured Query Language for Quering of Data
 -  GitHub for portfolio Building
+
+  ### Data Cleaning and Preparations
+  in the intial phase of the Data Cleaning and preparations, we perform the following action;
+  1. Data loading and Inspection
+  2. Data Cleaning
+
+### Exploratory Data Analysis
+EDA involves the exploring of the data to answer some questions about the data such as;
+-  What is the total sales by product, region and month?
+-  what is the average sales by product?
+-  what is the total revenue by region?
