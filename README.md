@@ -6,3 +6,13 @@ This Data Analysis project aim to generate insight into the sales performance of
 
 ### Data Sources
 The primary source of data used is LITA Capstone Dataset and this is an open source data that can be freely downloaded from an open source online such a kaggle or FRED or any other data repository site.
+
+### Tools Used
+-  Microsoft Excel, Analysis and Visualization [Download Here](https://www.microsoft.com)
+    1. For Data Cleaning
+    2. For Analysis
+    3. for Data Visualization
+      
+   
+-  SQL- Structured Query Language for Quering of Data
+-  GitHub for portfolio Building
