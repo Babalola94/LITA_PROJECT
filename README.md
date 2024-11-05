@@ -2,8 +2,7 @@
 ### Project Title: Sales Performance Analysis for God's Glory Retail Store
 
 [Project Overview](#project-overview)
-[Data Sources](data-sources)
-[Tools Used](tools-used)
+
 [Data Visualization](data-visualization)
 
 ### Project Overview
