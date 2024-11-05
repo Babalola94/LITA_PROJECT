@@ -27,3 +27,8 @@ EDA involves the exploring of the data to answer some questions about the data s
 -  What is the total sales by product, region and month?
 -  what is the average sales by product?
 -  what is the total revenue by region?
+
+### Data Analysis
+This is where we include some basic lines of code or queries oe even some of the DAX expressions used during your analysis;
+
+
