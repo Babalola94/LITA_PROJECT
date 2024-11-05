@@ -2,7 +2,13 @@
 ### Project Title: Sales Performance Analysis for God's Glory Retail Store
 
 ### Project Overview
-This Data Analysis project aim to generate insight into the sales performance of God's Glory Reatail store over the past year. By analysing the various parameters in the data received seek to gather enough insight to make reasonabe decision which then enable us to tell compelling stories around our data rom the insight got and to know the best performance from our data.
+This Data Analysis project aim to generate insight into the following analysis in order to make reasonabe decision which then enable us to tell compelling stories around our data and to know the best performance from our data:
+-  Revenue by region, month and product
+-  Average sales by product
+-  Highest selling product by total sales value
+-  Top 5 customers by total purchase amount
+-  product with no sale in the last quarter 
+ 
 
 ### Data Sources
 The primary source of data used is LITA Capstone Dataset and this is an open source data that can be freely downloaded from an open source online such a kaggle or FRED or any other data repository site.
@@ -15,18 +21,17 @@ The primary source of data used is LITA Capstone Dataset and this is an open sou
       
    
 -  SQL- Structured Query Language for Quering of Data
--  GitHub for portfolio Building
+
+-  PowerBI- Power Business Intelligence
 
   ### Data Cleaning and Preparations
   in the intial phase of the Data Cleaning and preparations, we perform the following action;
   1. Data loading and Inspection
   2. Data Cleaning
 
-### Exploratory Data Analysis
-EDA involves the exploring of the data to answer some questions about the data such as;
--  What is the total sales by product, region and month?
--  what is the average sales by product?
--  what is the total revenue by region?
+### Data Visual Analysis and Inferences
+
+1. 
 
 ### Data Analysis
 This is where we include some basic lines of code or queries oe even some of the DAX expressions used during your analysis;
