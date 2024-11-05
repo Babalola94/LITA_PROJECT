@@ -35,15 +35,17 @@ The primary source of data used is LITA Capstone Dataset and this is an open sou
 
 ### Data Visualization
 
- ## TOTAL SALES BY PRODUCT
+ ## Total Sales by Product
 ![Screenshot 2024-11-05 064114](https://github.com/user-attachments/assets/33f86517-9f01-401b-869b-ecdc9a4941df)
 
-## TOTAL SALES BY REGION
+## Total Sales By Region
 ![Screenshot 2024-11-05 064206](https://github.com/user-attachments/assets/e8005cb2-b8a8-49ff-b1b5-5416adff867c)
 
-## TOTAL SALES BY MONTH
+## Total Sales by Month
 ![Screenshot 2024-11-05 064313](https://github.com/user-attachments/assets/016d4f24-cdaa-419a-91c4-16a4d9b66ca4)
 
+## Top 5 Customers by Total Purchase
+![Screenshot 2024-11-05 100628](https://github.com/user-attachments/assets/1a262532-7e9e-42a5-859a-f27eed8dc675)
 
 
 
